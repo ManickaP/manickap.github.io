@@ -33,3 +33,4 @@
 - [Corefx Docker Build](https://gist.github.com/eiriktsarpalis/c8dc54026c5a67f15f18fdc8f47a580a)
 - [Build Workflow](https://github.com/dotnet/runtime/blob/master/docs/workflow/building/libraries/README.md)
 - [CredScan](https://www.1eswiki.com/wiki/CredScan_overview)
+- [Kusto](https://dataexplorer.azure.com/clusters/engsrvprod/databases/engineeringdata)
