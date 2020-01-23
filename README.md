@@ -34,3 +34,4 @@
 - [Build Workflow](https://github.com/dotnet/runtime/blob/master/docs/workflow/building/libraries/README.md)
 - [CredScan](https://www.1eswiki.com/wiki/CredScan_overview)
 - [Kusto](https://dataexplorer.azure.com/clusters/engsrvprod/databases/engineeringdata)
+- [Install Location for .NET Core](https://github.com/dotnet/designs/blob/master/accepted/install-locations.md)
