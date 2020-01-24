@@ -16,6 +16,7 @@
 ## .NET
 - [NET Core Source](https://source.dot.net/)
 - [NET Framework Source](https://referencesource.microsoft.com/)
+- [APIs of .NET](https://apisof.net/)
 
 ## TOOLS
 - [IL Spy Command Line](https://github.com/icsharpcode/ILSpy/tree/master/ICSharpCode.Decompiler.Console)
