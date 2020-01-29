@@ -20,6 +20,7 @@
 
 ## TOOLS
 - [IL Spy Command Line](https://github.com/icsharpcode/ILSpy/tree/master/ICSharpCode.Decompiler.Console)
+- [SpeedScope](https://adamsitnik.com/speedscope/)
 
 ## LINUX
 - [Libor Forst - Teaching](https://www.ms.mff.cuni.cz/~forst/vyuka.html)
@@ -37,3 +38,4 @@
 - [CredScan](https://www.1eswiki.com/wiki/CredScan_overview)
 - [Kusto](https://dataexplorer.azure.com/clusters/engsrvprod/databases/engineeringdata)
 - [Install Location for .NET Core](https://github.com/dotnet/designs/blob/master/accepted/install-locations.md)
+- [dotnet trace](https://developers.redhat.com/blog/2019/12/23/tracing-net-core-applications/)
