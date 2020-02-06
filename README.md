@@ -21,6 +21,7 @@
 ## TOOLS
 - [IL Spy Command Line](https://github.com/icsharpcode/ILSpy/tree/master/ICSharpCode.Decompiler.Console)
 - [SpeedScope](https://adamsitnik.com/speedscope/)
+- [SharpLab](https://sharplab.io/)
 
 ## LINUX
 - [Libor Forst - Teaching](https://www.ms.mff.cuni.cz/~forst/vyuka.html)
