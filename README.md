@@ -6,6 +6,7 @@
 - [DevOps](https://dev.azure.com/dnceng/public/_build)
 - [dotnet/runtime](https://github.com/dotnet/runtime)
 - [dotnet/corefx](https://github.com/dotnet/corefx)
+- [dotnet/core-eng](https://github.com/dotnet/core-eng)
 - [PaySlips](https://corp.sts.microsoft.com/adfs/ls/idpinitiatedsignon.aspx?LoginToRP=https://portal0012.globalview.adp.com/federate2)
 - [Sodexo](https://sodexo-ucet.cz/)
 - [Amex](https://www.centresuite.co.uk/Centre/Public/Logon/)
