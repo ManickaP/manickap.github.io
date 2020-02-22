@@ -29,6 +29,7 @@
 - [SpeedScope](https://adamsitnik.com/speedscope/)
 - [SharpLab](https://sharplab.io/)
 - [WinDbg](http://www.windbg.info/doc/1-common-cmds.html)
+- [VS Code Shortcuts](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)
 
 ## LINUX
 - [Libor Forst - Teaching](https://www.ms.mff.cuni.cz/~forst/vyuka.html)
