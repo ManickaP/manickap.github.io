@@ -19,10 +19,14 @@
 - [NET Framework Source](https://referencesource.microsoft.com/)
 - [APIs of .NET](https://apisof.net/)
 
+## PROGRAMMING
+- [C++ Reference](https://en.cppreference.com/w/cpp)
+
 ## TOOLS
 - [IL Spy Command Line](https://github.com/icsharpcode/ILSpy/tree/master/ICSharpCode.Decompiler.Console)
 - [SpeedScope](https://adamsitnik.com/speedscope/)
 - [SharpLab](https://sharplab.io/)
+- [WinDbg](http://www.windbg.info/doc/1-common-cmds.html)
 
 ## LINUX
 - [Libor Forst - Teaching](https://www.ms.mff.cuni.cz/~forst/vyuka.html)
