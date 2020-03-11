@@ -4,6 +4,7 @@
 - [Calendar](https://outlook.office365.com/calendar/view/month)
 - [OneDrive](https://microsoft-my.sharepoint.com/personal/mapichov_microsoft_com/_layouts/15/onedrive.aspx)
 - [DevOps](https://dev.azure.com/dnceng/public/_build)
+- [Framework Repository](http://vstfdevdiv:8080/DevDiv2/DevDiv/_versionControl)
 - [dotnet/runtime](https://github.com/dotnet/runtime)
 - [dotnet/corefx](https://github.com/dotnet/corefx)
 - [dotnet/core-eng](https://github.com/dotnet/core-eng)
