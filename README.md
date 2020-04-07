@@ -42,6 +42,7 @@
 - [Hypertext Transfer Protocol Version 2 (HTTP/2)](https://http2.github.io/http2-spec/)
 - [ALPN](https://en.wikipedia.org/wiki/Application-Layer_Protocol_Negotiation)
 - [HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP)
+- [QUIC](https://quicwg.org/)
 
 ## WORK LINKS
 - [Corefx Docker Build](https://gist.github.com/eiriktsarpalis/c8dc54026c5a67f15f18fdc8f47a580a)
