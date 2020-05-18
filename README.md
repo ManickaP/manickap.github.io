@@ -47,6 +47,7 @@
 ## WORK LINKS
 - [Corefx Docker Build](https://gist.github.com/eiriktsarpalis/c8dc54026c5a67f15f18fdc8f47a580a)
 - [Build Workflow](https://github.com/dotnet/runtime/blob/master/docs/workflow/building/libraries/README.md)
+- [SSL/TLS in WireShark](https://joji.me/en-us/blog/walkthrough-decrypt-ssl-tls-traffic-https-and-http2-in-wireshark/)
 - [Strike TLS](https://strikecommunity.azurewebsites.net/articles/3508/course-modern-encryption-in-transit-1.html)
 - [CredScan](https://www.1eswiki.com/wiki/CredScan_overview)
 - [Kusto](https://dataexplorer.azure.com/clusters/engsrvprod/databases/engineeringdata)
