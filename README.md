@@ -9,7 +9,7 @@
 - [dotnet/corefx](https://github.com/dotnet/corefx)
 - [dotnet/core-eng](https://github.com/dotnet/core-eng)
 - [Docs Preview](https://review.docs.microsoft.com/en-us/dotnet/api/?branch=master)
-- [PaySlips](https://corp.sts.microsoft.com/adfs/ls/idpinitiatedsignon.aspx?LoginToRP=https://portal0012.globalview.adp.com/federate2)
+- [PaySlips](https://portal0012.globalview.adp.com/gvfrmwk3/msft.home#/areadashboard)
 - [Sodexo](https://sodexo-ucet.cz/)
 - [Amex](https://www.centresuite.co.uk/Centre/Public/Logon/)
 - [CoreFx Notes](https://microsoft.sharepoint.com/teams/netfx/corefx/_layouts/15/Doc.aspx?sourcedoc={0cfbc196-0645-4781-84c6-5dffabd76bee}&action=edit&wd=target%28Networking.one%7C7f7a68c9-55b6-465a-9c30-bab26b5f7d82%2FPlanning%7Cb203cb27-e258-47e6-92c9-740763141734%2F%29)
