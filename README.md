@@ -25,6 +25,7 @@
 
 ## PROGRAMMING
 - [C++ Reference](https://en.cppreference.com/w/cpp)
+- [ASM Cheetsheet](https://cs.brown.edu/courses/cs033/docs/guides/x64_cheatsheet.pdf)
 
 ## TOOLS
 - [IL Spy Command Line](https://github.com/icsharpcode/ILSpy/tree/master/ICSharpCode.Decompiler.Console)
