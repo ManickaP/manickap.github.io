@@ -16,6 +16,7 @@
 - [WhoDogfoods](https://whodogfoods.vsdata.io/)
 - [LinkedIn Learning](https://www.linkedin.com/learning/me?u=3322)
 - [My GitHub](https://github.com/ManickaP?tab=repositories)
+- [.NET Planning](http://themesof.net/)
 
 ## .NET
 - [NET Core Source](https://source.dot.net/)
