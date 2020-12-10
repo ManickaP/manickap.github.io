@@ -47,6 +47,7 @@
 - [ALPN](https://en.wikipedia.org/wiki/Application-Layer_Protocol_Negotiation)
 - [HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP)
 - [QUIC](https://quicwg.org/)
+- [TLS 1.3](https://tls13.ulfheim.net/)
 
 ## WORK LINKS
 - [Corefx Docker Build](https://gist.github.com/eiriktsarpalis/c8dc54026c5a67f15f18fdc8f47a580a)
@@ -55,5 +56,4 @@
 - [Strike Community](https://strikecommunity.azurewebsites.net)
 - [CredScan](https://www.1eswiki.com/wiki/CredScan_overview)
 - [Kusto](https://dataexplorer.azure.com/clusters/engsrvprod/databases/engineeringdata)
-- [Install Location for .NET Core](https://github.com/dotnet/designs/blob/master/accepted/install-locations.md)
 - [dotnet trace](https://developers.redhat.com/blog/2019/12/23/tracing-net-core-applications/)
