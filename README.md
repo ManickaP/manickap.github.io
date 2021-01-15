@@ -4,6 +4,7 @@
 - [Calendar](https://outlook.office365.com/calendar/view/month)
 - [OneDrive](https://microsoft-my.sharepoint.com/personal/mapichov_microsoft_com/_layouts/15/onedrive.aspx)
 - [DevOps](https://dev.azure.com/dnceng/public/_build)
+- [DevOps Internal](https://dev.azure.com/dnceng/internal/_build)
 - [Framework Repository](http://vstfdevdiv:8080/DevDiv2/DevDiv/_versionControl)
 - [dotnet/runtime](https://github.com/dotnet/runtime)
 - [dotnet/corefx](https://github.com/dotnet/corefx)
@@ -57,3 +58,4 @@
 - [CredScan](https://www.1eswiki.com/wiki/CredScan_overview)
 - [Kusto](https://dataexplorer.azure.com/clusters/engsrvprod/databases/engineeringdata)
 - [dotnet trace](https://developers.redhat.com/blog/2019/12/23/tracing-net-core-applications/)
+- [ASP.NET Benchmarks](https://aka.ms/aspnet/benchmarks)
