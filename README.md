@@ -44,7 +44,7 @@
 
 ## NETWORKING
 - [Beej's Guide to Network Programming](https://beej.us/guide/bgnet/)
-- [Hypertext Transfer Protocol Version 2 (HTTP/2)](https://http2.github.io/http2-spec/)
+- [Hypertext Transfer Protocol Version 2 (HTTP/2)](https://http2.github.io/)
 - [ALPN](https://en.wikipedia.org/wiki/Application-Layer_Protocol_Negotiation)
 - [HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP)
 - [QUIC](https://quicwg.org/)
