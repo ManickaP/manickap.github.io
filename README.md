@@ -37,6 +37,7 @@
 - [SharpLab](https://sharplab.io/)
 - [WinDbg](http://www.windbg.info/doc/1-common-cmds.html)
 - [VS Code Shortcuts](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)
+- [lldb cheatsheet](https://goodies.dotnetos.org/files/dotnetos-debuggers_cheatsheet.pdf)
 
 ## LINUX
 - [Libor Forst - Teaching](https://www.ms.mff.cuni.cz/~forst/vyuka.html)
