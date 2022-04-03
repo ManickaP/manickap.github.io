@@ -41,6 +41,7 @@
 - [VS Code Shortcuts](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)
 - [lldb cheatsheet](https://goodies.dotnetos.org/files/dotnetos-debuggers_cheatsheet.pdf)
 - [GDB Online](https://www.onlinegdb.com)
+- [SOS](https://github.com/dotnet/diagnostics/blob/main/documentation/sos-debugging-extension.md)
 
 ## LINUX
 - [Libor Forst - Teaching](https://www.ms.mff.cuni.cz/~forst/vyuka.html)
