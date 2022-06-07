@@ -55,6 +55,10 @@
 - [HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP)
 - [QUIC](https://quicwg.org/)
 - [TLS 1.3](https://tls13.ulfheim.net/)
+- [HTTP Semantics](https://www.rfc-editor.org/rfc/rfc9110.html)
+- [HTTP 1.1](https://www.rfc-editor.org/rfc/rfc9112.html)
+- [HTTP 2](https://www.rfc-editor.org/rfc/rfc9113.html)
+- [HTTP 3](https://www.rfc-editor.org/rfc/rfc9114.html)
 
 ## WORK LINKS
 - [Corefx Docker Build](https://gist.github.com/eiriktsarpalis/c8dc54026c5a67f15f18fdc8f47a580a)
