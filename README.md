@@ -59,6 +59,7 @@
 - [HTTP 1.1](https://www.rfc-editor.org/rfc/rfc9112.html)
 - [HTTP 2](https://www.rfc-editor.org/rfc/rfc9113.html)
 - [HTTP 3](https://www.rfc-editor.org/rfc/rfc9114.html)
+- [WebTransport](https://www.ietf.org/archive/id/draft-ietf-webtrans-http3-03.html)
 
 ## WORK LINKS
 - [Corefx Docker Build](https://gist.github.com/eiriktsarpalis/c8dc54026c5a67f15f18fdc8f47a580a)
