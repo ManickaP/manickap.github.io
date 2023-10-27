@@ -15,7 +15,7 @@
 - [Sodexo](https://sodexo-ucet.cz/)
 - [Amex](https://www.centresuite.co.uk/Centre/Public/Logon/)
 - [Twic](https://client.twic.ai)
-- [CoreFx Notes](https://microsoft.sharepoint.com/teams/netfx/corefx/_layouts/15/Doc.aspx?sourcedoc={0cfbc196-0645-4781-84c6-5dffabd76bee}&action=edit&wd=target%28Networking.one%7C7f7a68c9-55b6-465a-9c30-bab26b5f7d82%2FPlanning%7Cb203cb27-e258-47e6-92c9-740763141734%2F%29)
+- [CoreFx Notes](https://microsoft.sharepoint.com/teams/netfx/corefx/_layouts/15/Doc.aspx?sourcedoc=%7B0cfbc196-0645-4781-84c6-5dffabd76bee%7D)
 - [WhoDogfoods](https://whodogfoods.vsdata.io/)
 - [LinkedIn Learning](https://www.linkedin.com/learning/me?u=3322)
 - [My GitHub](https://github.com/ManickaP?tab=repositories)
